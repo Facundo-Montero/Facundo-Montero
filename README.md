@@ -6,7 +6,7 @@ Front-end developer (Buenos Aires, AR) en transición a QA Analyst.
 `HTML` `CSS` `JavaScript` `WordPress` `Git`
 
 ## QA
-Aplico testing manual y automatizado (Playwright) a mis propios proyectos: test plans, bug reports con severidad/prioridad, tests de regresión. Ver ejemplo completo en [`sushi-katsu/testing`](https://github.com/Facundo-Montero/sushi-katsu/tree/main/testing).
+Aplico testing manual y automatizado (Playwright) a mis propios proyectos: test plans, bug reports con severidad/prioridad, tests de regresión. Ver ejemplo completo en [`sushi-katsu/testing`](https://github.com/Facundo-Montero/sushi-katsu-repo/tree/main/testing).
 
 ## Proyectos
 
